@@ -22,6 +22,7 @@ export default function BrowseRooms() {
               key={item.id}
               roomType={item.roomType}
               price={item.price}
+              imgURL=""
             />
           ))}
         </div>
