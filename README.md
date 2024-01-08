@@ -33,3 +33,5 @@ export default {
 # hotel_booking_web
 It's a website for hotel.
 >>>>>>> b2f433dad01e825924d4a18b2c1dc49f88bd1d61
+
+GENERATE YOURS => [MY OWN URL](https://radiant-madeleine-a2a796.netlify.app/)
